@@ -8,6 +8,7 @@
 
 # Project Name
 ## Project Discription
+## You can join our discord server at [https://discord.gg/7GY6VPvuGj](https://discord.gg/7GY6VPvuGj)
 
 ### _Awaiting dev. Contact if interested._
 
