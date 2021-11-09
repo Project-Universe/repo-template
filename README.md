@@ -1,13 +1,14 @@
 # Project Template Repo
 ## This is the template repo for the Project Universe repo.
 ### To create a new repo:
-* Edit readme
+* Edit project readme
 * Clone project into local folder
 * Make sure someone has run `docsify init ./docs`
 * Create Discord Chat and Webhook channels
 * Create Github Webhook
 * Create Github Team
 * Create Discord Team
+* Make sure Universe readme is up to date
 
 -------------------
 -------------------
