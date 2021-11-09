@@ -1,10 +1,17 @@
-// Delete Between the Double Shlashes
-
-//
 # Project Template Repo
 ## This is the template repo for the Project Universe repo.
-//
+### To create a new repo:
+* Edit readme
+* Clone project
+* Run `docsify init ./docs`
+* Create Discord Chat and Webhook channels
+* Create Github Webhook
+* Create Github Team
+* Create Discord Team
 
+-------------------
+-------------------
+-------------------
 
 # Project Name
 ## Project Discription
