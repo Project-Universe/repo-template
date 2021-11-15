@@ -16,5 +16,5 @@ jobs:
     - uses: Project-Universe/standard-labels-action@main
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
-        owner-name: ${{ github.repository_owner }}
-        repository-name: ${{ github.event.repository.name }}
+        owner-name: Project-Universe
+        repository-name: repo-template
