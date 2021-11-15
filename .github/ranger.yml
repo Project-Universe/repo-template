@@ -3,3 +3,27 @@ labels:
   # Make all PRs labeled docs get automatically merged
   'approved': 
     action: rebase
+default:
+  comment:
+    message: '⚠️ This has been marked $LABEL by the maintainers'
+
+labels:
+  'approved': comment
+  'dependencies': comment
+  duplicate: close
+  wontfix: close
+  invalid: close
+  'merge when passing': merge
+  'squash when passing': merge
+  'rebase when passing': merge
+merges:
+  - action: tag
+	- action: delete_branch
+	
+comments:
+  - action: delete_comment
+    pattern: $PROFANITY
+		
+sponsor_labels:
+  - sponsor
+  - "priority 1"
