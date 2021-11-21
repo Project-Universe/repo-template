@@ -9,6 +9,7 @@
 * Create Github Team
 * Create Discord Team
 * Make sure Universe readme is up to date
+* Update **MEGA REPO**
 
 -------------------
 -------------------
